@@ -1,6 +1,5 @@
 # 🚀 The Last Transmission
 An Interactive Sci-Fi Storytelling Experience
-(Add a relevant image or GIF of the website in action)
 
 🌌 Overview
 The Last Transmission is a visually immersive, interactive storytelling website that follows Commander Alex, an astronaut stranded near a mysterious black hole. As users scroll, they uncover Alex’s desperate attempts to send fragmented messages back to Earth, experience cosmic anomalies, and witness the final moments before the event horizon.
@@ -41,22 +40,10 @@ Click interactions decrypt lost transmissions
 "Reboot Transmission" button to restart the experience
 🚀 Installation & Usage
 1️⃣ Clone the Repository
-bash
-Copy
-Edit
-git clone https://github.com/your-username/the-last-transmission.git
-cd the-last-transmission
+
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
-npm install
+
 3️⃣ Run the Project
-bash
-Copy
-Edit
-npm start
-(Ensure you have Node.js installed for local development.)
 
 🎨 UI/UX Design Breakdown
 🔹 Color Palette
